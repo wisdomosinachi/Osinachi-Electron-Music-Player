@@ -18,7 +18,6 @@ This can also serve as a starting point to impliment your own front-end/UI to th
 ### NEW!
 Now toggle between Light and Dark modes, you have to restart the application for the change to take place. (still in beta)
 
-Download here: [Releases](https://github.com/Aveek-Saha/MusicPlayer/releases)
 
 # How to use
 ### 1. The Player
@@ -45,9 +44,6 @@ Clone the repository, then navigate to it on your terminal and run ```npm instal
 * Volume slider has indicators.
 * New app Icon
 * Small style changes.
-
-### If you liked this, check out My Blog where I post tutorials and write about projects like this
-https://aveeksaha.gitlab.io/
 
 
 <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
